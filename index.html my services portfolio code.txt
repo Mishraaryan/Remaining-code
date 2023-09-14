@@ -1,0 +1,35 @@
+<div id="portfolio">
+        <div class="max-w-[1320px] mx-auto">
+            <h1 class="text-4xl text-center py-5">My Work</h1>
+        </div>
+        <div class="max-w-[1320px] mx-auto grid lg:grid-cols-4 md:grid-cols-2 gap-6 px-[20px]">
+            <div class="text-center shadow-lg rounded">
+                <div class="overflow-hidden">
+                    <img src="insert image here" class="hover:scale-125 duration-1000 cursor-pointer" alt="">
+                </div>
+                <h3 class="py-2 text-2xl">Logo Design</h3>
+                <p class="py-2">For a Cycle Company-Bespoke Mountain Bikes.</p>
+            </div>
+            <div class="text-center shadow-lg rounded">
+                <div class="overflow-hidden">
+                    <img src="insert image here" class="hover:scale-125 duration-1000 cursor-pointer" alt="">
+                </div>
+                <h3 class="py-2 text-2xl">Wire Frame</h3>
+                <p class="py-2">For a Website named - WS Cube Tech.</p>
+            </div>
+            <div class="text-center shadow-lg rounded">
+                <div class="overflow-hidden">
+                    <img src="insert image here" class="hover:scale-125 duration-1000 cursor-pointer" alt="">
+                </div>
+                <h3 class="py-2 text-2xl">Music Player Web App</h3>
+                <p class="py-2 text-orange-500"></p>
+            </div>
+            <div class="text-center shadow-lg rounded">
+                <div class="overflow-hidden">
+                    <img src="insert image here" class="hover:scale-125 duration-1000 cursor-pointer" alt="">
+                </div>
+                <h3 class="py-2 text-2xl">Letter Head,Visiting Card</h3>
+                <p class="py-2">For a company named- Go Fiber.</p>
+            </div>
+        </div>
+    </div>

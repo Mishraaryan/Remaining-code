@@ -1,0 +1,35 @@
+<div id="services">
+        <div class="max-w-[1320px] md:py-[80] py-5 mx-auto">
+            <h1 class="text-4xl text-center">My Services</h1>
+        </div>
+        <div class="max-w-[1200px] mx-auto py-[30px] grid lg:grid-cols-4 sm:grid-cols-2 gap-6">
+            <div class=" group shadow-lg p-4 text-center hover:bg-orange-500 hover:text-white duration-1000">
+                <i
+                    class="fas fa-laptop-code text-2xl text-orange-500 group-hover:text-white duration-1000 animate-bounce"></i>
+                <h3 class="text-xl py-[2px] text-blue-500 group-hover:text-black">Web Developer</h3>
+                <p>As a web developer, I possess a strong technical background, allowing me to craft functional and
+                    user-friendly websites.</p>
+            </div>
+            <div class=" group shadow-lg p-4 text-center hover:bg-orange-500 hover:text-white duration-1000">
+                <i
+                    class="fas fa-laptop-code text-2xl text-blue-500 group-hover:text-white duration-1000 animate-spin"></i>
+                <h3 class="text-xl py-[2px] text-orange-500 group-hover:text-black">Graphic Designer</h3>
+                <p>As a graphic designer, I bring ideas to life through visually stunning designs that leave a lasting
+                    impact.</p>
+            </div>
+            <div class=" group shadow-lg p-4 text-center hover:bg-orange-500 hover:text-white duration-1000">
+                <i
+                    class=" animate-bounce fas fa-laptop-code text-2xl text-orange-500 group-hover:text-white duration-1000"></i>
+                <h3 class="text-xl py-[2px] text-blue-500 group-hover:text-black">Web Designer</h3>
+                <p>A keen eye for aesthetics and a deep understanding of design principles, I strive to deliver engaging
+                    visual and Wire Frames.</p>
+            </div>
+            <div class=" group shadow-lg p-4 text-center hover:bg-orange-500 hover:text-white duration-1000">
+                <i
+                    class=" animate-spin fas fa-laptop-code text-2xl text-blue-500 group-hover:text-white duration-1000"></i>
+                <h3 class="text-xl py-[2px] text-orange-500 group-hover:text-black">Logo Designer</h3>
+                <p>I thrive on pushing creative boundaries and staying up-to-date with the latest industry trends and
+                    technologies.</p>
+            </div>
+        </div>
+    </div>
